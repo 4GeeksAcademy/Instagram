@@ -1,0 +1,58 @@
+body{
+    background: grey;
+    margin: 0px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+/* *{
+	border: 1px dashed red;
+	min-height: 10px;
+	} */
+
+.container{
+    width: 500px;
+    height: 400px;
+}
+
+header{
+    background: white;
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+    font-size: 36px;
+    
+}
+
+.container{
+    background: white;
+    margin: 0px 0px 0px 0px;
+    position: relative;
+    left: 32.5%;
+    
+    
+}
+
+.post h2,
+.post span {
+  background:white;
+  display: inline-flex;
+  
+  
+}
+
+.post h2{
+    width: 88%;
+	margin: 0px 0px 0px 0px
+}
+
+.post img{
+    width: 500px;
+    height: 400px;
+}
+
+.post p{
+
+    background: white;
+    margin: 0px 0px 0px 0px;
+    padding: 10px;
+}
